@@ -2,6 +2,17 @@
 django-organizations
 ====================
 
+----
+What's updated after forking
+----
+
+- [x] pipenv added.
+- [x] in the `example` of Vendors, `list_display` and `raw_id_fields` add in the `VendorUser` admin page. Otherwise, the original example can not show details about these users.
+
+
+
+
+
 .. start-table
 
 .. list-table::

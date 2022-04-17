@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+coverage = "*"
+mock = ">=1.0.1"
+pytest-django = ">=3.0.0"
+pytest-cov = ">=2.4.0"
+flake8 = ">=2.4.1"
+typing = ">=3.6.4"
+django-extensions = ">=1.6.0"
+django-autoslug = ">=1.9.8"
+mock-django = "==0.6.9"
+django = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
